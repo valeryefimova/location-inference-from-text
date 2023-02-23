@@ -1,7 +1,7 @@
-# I Know Where You Are: Inferring Location From Text
+# Automatic location prediction from text description
 
 This repository describes the structure of the models in order to determine the most appropriate location from the text.
-These models are described in detail in paper.
+These models are described in detail in the paper [Inferring Image Background from Text Description](https://link.springer.com/chapter/10.1007/978-3-031-23372-2_1).
 
 ## Models
 There are two models in total Location Extraction Transformer(LET) and Location Inference Transformer(LIT):
@@ -14,5 +14,3 @@ There are two models in total Location Extraction Transformer(LET) and Location 
     * [Launch script](Location%20Inference%20Transformer/launch.py)
     * [Launch instructions](Location%20Inference%20Transformer/README.md)
     
-## Links
-* Paper — Inferring Image Background from Text Description — [link](https://link.springer.com/chapter/10.1007/978-3-031-23372-2_1)
